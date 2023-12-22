@@ -1,7 +1,7 @@
 ![Header](./github-header-image (1).png)
 <h1 align="center">Hi 👋, I'm Nenis Rudani</h1>
 <h3 align="center">Ambivert</h3>
-<img align ="right" alt="coding...." width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fcoding&psig=AOvVaw1jUE1GcIVjGTWshMyZfFAC&ust=1703336403535000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjk2eWMo4MDFQAAAAAdAAAAABAD">
+<img align ="right" alt="coding...." width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nenisrudani7&label=Profile%20views&color=0e75b6&style=flat" alt="nenisrudani7" /> </p>
 
