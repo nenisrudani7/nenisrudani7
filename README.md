@@ -1,3 +1,4 @@
+![logo](https://github.com/nenisrudani7/nenisrudani7/blob/Master/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Nenis Rudani</h1>
 <h3 align="center">Ambivert</h3>
 <img align="right" alt="coding.." width="350" src="https://i.gifer.com/origin/cf/cf95f54d66e86b735a6a549deb92c993_w200.gif">
