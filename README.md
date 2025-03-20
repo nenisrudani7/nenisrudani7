@@ -1,7 +1,7 @@
 ![logo](https://github.com/nenisrudani7/nenisrudani7/blob/Master/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Nenis Rudani</h1>
 <h3 align="center">Ambivert</h3>
-<img align="right" alt="coding.." width="350" src="https://i.gifer.com/origin/cf/cf95f54d66e86b735a6a549deb92c993_w200.gif">
+<img align="right" alt="coding.." width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
