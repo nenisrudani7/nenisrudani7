@@ -5,9 +5,9 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **DevSecOps**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **DevOps**
 
 - 📫 How to reach me **rudaninenis7@gmail.com**
 
